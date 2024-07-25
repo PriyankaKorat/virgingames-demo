@@ -1,0 +1,29 @@
+2024-07-25 18:07:591 INFO  HomePage :19 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (bd2a5edae38eab8b08e6ca92d0b1f667)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 18:07:10 INFO  HomePage :19 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (e4135d6a9124061ad45b2464c8225816)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 18:07:822 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (998d555ff252d857acc99b91454a60ab)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 18:07:939 INFO  HomePage :28 - Clicking on online slot : [[ChromeDriver: chrome on windows (998d555ff252d857acc99b91454a60ab)] -> xpath: //span[contains(text(),'Online Slots')]]
+2024-07-25 19:07:454 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (e053350c0018b36feb3c5d21e12a5d6d)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:581 INFO  HomePage :28 - Clicking on online slot : [[ChromeDriver: chrome on windows (e053350c0018b36feb3c5d21e12a5d6d)] -> xpath: //span[contains(text(),'Online Slots')]]
+2024-07-25 19:07:70 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (5d5b37ede56323035241c42a29649fc7)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:177 INFO  HomePage :28 - Clicking on online slot : [[ChromeDriver: chrome on windows (5d5b37ede56323035241c42a29649fc7)] -> xpath: //span[contains(text(),'Online Slots')]]
+2024-07-25 19:07:203 INFO  OnlineSlotPage :16 - Getting Online slot link  : https://www.virgingames.com/uk/slots
+2024-07-25 19:07:846 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (63bddab046db3113b2998ac9d1cf4a07)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:944 INFO  BlogPage :19 - Clicking on blog link : [[ChromeDriver: chrome on windows (63bddab046db3113b2998ac9d1cf4a07)] -> xpath: //span[contains(text(),'Blog')]]
+2024-07-25 19:07:756 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (a6d9e3c8724b103f873e0b374c987d14)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:840 INFO  HomePage :28 - Clicking on online slot : [[ChromeDriver: chrome on windows (a6d9e3c8724b103f873e0b374c987d14)] -> xpath: //span[contains(text(),'Online Slots')]]
+2024-07-25 19:07:856 INFO  OnlineSlotPage :16 - Getting Online slot link  : https://www.virgingames.com/uk/slots
+2024-07-25 19:07:589 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (cdc954e3843d38eebec5520d71b6a9c1)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:682 INFO  BlogPage :23 - Clicking on blog link : [[ChromeDriver: chrome on windows (cdc954e3843d38eebec5520d71b6a9c1)] -> xpath: //span[contains(text(),'Blog')]]
+2024-07-25 19:07:59 INFO  BlogPage :28 - Get welcome text[[ChromeDriver: chrome on windows (cdc954e3843d38eebec5520d71b6a9c1)] -> xpath: //h1[contains(text(),'Welcome to the Virgin Games Blog')]]
+2024-07-25 19:07:26 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (2e9011b4ad595f548a3a0834893e2f30)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:174 INFO  HomePage :28 - Clicking on online slot : [[ChromeDriver: chrome on windows (2e9011b4ad595f548a3a0834893e2f30)] -> xpath: //span[contains(text(),'Online Slots')]]
+2024-07-25 19:07:203 INFO  OnlineSlotPage :16 - Getting Online slot link  : https://www.virgingames.com/uk/slots
+2024-07-25 19:07:825 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (cfc102bae4d2777e197aff815fb64082)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:910 INFO  BlogPage :23 - Clicking on blog link : [[ChromeDriver: chrome on windows (cfc102bae4d2777e197aff815fb64082)] -> xpath: //span[contains(text(),'Blog')]]
+2024-07-25 19:07:303 INFO  BlogPage :28 - Get welcome textWelcome to the Virgin Games Blog
+2024-07-25 19:07:674 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (91a9181ab7f60166ff235a2fae3f03c8)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:797 INFO  HomePage :28 - Clicking on online slot : [[ChromeDriver: chrome on windows (91a9181ab7f60166ff235a2fae3f03c8)] -> xpath: //span[contains(text(),'Online Slots')]]
+2024-07-25 19:07:822 INFO  OnlineSlotPage :16 - Getting Online slot link  : https://www.virgingames.com/uk/slots
+2024-07-25 19:07:919 INFO  HomePage :23 - Clicking on allow cookies : [[ChromeDriver: chrome on windows (85db10b55e689f0e76084b311ca8f1cb)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:23 INFO  BlogPage :23 - Clicking on blog link : [[ChromeDriver: chrome on windows (85db10b55e689f0e76084b311ca8f1cb)] -> xpath: //span[contains(text(),'Blog')]]
+2024-07-25 19:07:453 INFO  BlogPage :28 - Get welcome textWelcome to the Virgin Games Blog
